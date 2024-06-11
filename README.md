@@ -1,7 +1,7 @@
 # ML_with_TF_Opencampus_SH
  #
 ### Week 1 - General Introduction 
-  #### Exercise 1: Housing Price Prediction with Neural Network
+  Exercise 1: Housing Price Prediction with Neural Network
   #### Exercise 2: Fashion MNIST Dataset - Neural Network
   #
 ### Week 2 - Introduction to TensorFlow (Part I)
