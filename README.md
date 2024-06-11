@@ -1,14 +1,14 @@
 # ML_with_TF_Opencampus_SH
 
-# Week 1 - General Introduction
+## Week 1 - General Introduction
   # 
-  # Exercise 1: Housing Price Prediction with Neural Network
-  # Exercise 2: Fashion MNIST Dataset - Neural Network
+  ### Exercise 1: Housing Price Prediction with Neural Network
+  ### Exercise 2: Fashion MNIST Dataset - Neural Network
   
-# Week 2 - Introduction to TensorFlow (Part I)
+## Week 2 - Introduction to TensorFlow (Part I)
   #
-  # Exercise 1: Cats and Dogs - Image Classification 
-  # Exercise 2: CIFAR-10 Dataset - Convolutional Neural Networks 
+  ### Exercise 1: Cats and Dogs - Image Classification 
+  ### Exercise 2: CIFAR-10 Dataset - Convolutional Neural Networks 
   
 # Week 3 - Introduction to TensorFlow (Part II)
   #
