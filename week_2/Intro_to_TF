@@ -1,1 +1,13 @@
+Building a multilayer neural network using the Cats and Dogs Dataset.
 
+UNDERSAMPLING
+Undersampling: method used to address class imbalance in a dataset.
+Imbalance in the sense that one class has fewer instances than the other, and the ML is not able to sufficiently predict the minority class.
+- What is done: You reduce the instances of the majority class to balance the distribution <br>
+
+Random undersampling: you randomly remove instances <br>
+- Issue: lose important information or small dataset 
+
+OVERSAMPLING
+Oversampling: increasing the number of the minority class using the synthetic data generation method or ensemble methods (SMOTE - Synthetic Minority Oversampling Technique).
+SMOTE uses k-nearest neighbor mechanisms (come back to this).
