@@ -1,4 +1,4 @@
-# ML_with_TF_Opencampus_SH
+# Machine Learning with TensorFlow: Opencampus_SH
  #
 ### Week 1 - General Introduction 
   Exercise 1: Housing Price Prediction with Neural Network
