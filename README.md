@@ -15,7 +15,7 @@
   [Exercise 1: Rock-Paper-Scissors - Multiclass Classification](https://github.com/OMEAkin/ML_with_TF_Opencampus_SH/blob/7a5b55610680a810bac7ff6a1ca84f69e30df3e2/week_4/Wk4_CNN_Rock_Paper_Scissor.ipynb)
    #
 ### Week 5 - Convolutional Neural Networks (Part II)
-  [Exercise 1: Segment140 Dataset - Segmentation Analysis](https://github.com/OMEAkin/ML_with_TF_Opencampus_SH/blob/7a5b55610680a810bac7ff6a1ca84f69e30df3e2/week_5/Wk5_Nbk_Sentiment140_OMA.ipynb)
-  (To Be Edited)
+  [Exercise 1: Segment140 Dataset - Segmentation Analysis]
+  (To Be Edited & Re-added)
 
   
